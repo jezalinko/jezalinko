@@ -15,6 +15,7 @@ I enjoy building practical tools, experimenting in my homelab and learning by do
 - **Networking** — Studying networking fundamentals through Cisco Networking Academy.
 - **Cybersecurity** — Exploring network security, OT/ICS security and defensive security practices.
 - **Open Source** — Learning, contributing and maintaining projects that others may find useful.
+- **Electronics & Embedded Systems** — Experimenting with Raspberry Pi and Arduino, exploring hardware, sensors, microcontrollers and practical automation projects.
 
 ## 🚀 Projects
 
